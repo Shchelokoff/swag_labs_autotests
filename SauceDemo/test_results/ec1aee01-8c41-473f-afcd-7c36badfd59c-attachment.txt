@@ -1,0 +1,6 @@
+Current URL https://www.saucedemo.com/
+Input login
+Input password
+Click login button
+Text word *Product* is right
+Finish test

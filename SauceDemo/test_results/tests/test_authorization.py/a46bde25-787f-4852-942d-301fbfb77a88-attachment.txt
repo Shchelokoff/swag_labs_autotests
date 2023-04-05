@@ -1,0 +1,3 @@
+Start test
+Chrome has started
+Finish test

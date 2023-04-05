@@ -1,0 +1,3 @@
+We are on the login page
+https://www.saucedemo.com/
+URL of the current page is right

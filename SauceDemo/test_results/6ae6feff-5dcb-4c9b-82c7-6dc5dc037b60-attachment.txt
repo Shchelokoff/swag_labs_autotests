@@ -1,0 +1,5 @@
+Input login
+Input password
+Click login button
+Text word is right
+Text word is right

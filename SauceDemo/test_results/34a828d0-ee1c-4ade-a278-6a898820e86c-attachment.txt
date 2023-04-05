@@ -1,0 +1,13 @@
+Input login
+Input password
+Click login button
+We are on the main page
+https://www.saucedemo.com/inventory.html
+URL of the current page is right
+Text main word is right
+Click menu
+Go to the about page
+We are on the about page
+https://saucelabs.com/
+URL of the current page is right
+Text main word is right

@@ -1,0 +1,21 @@
+Input login
+Input password
+Click login button
+URL of the current page is right
+Text main word is right
+Select product1
+Click cart
+URL of the current page is right
+Text main word is right
+Click checkout button
+URL of the current page is right
+Text main word is right
+Input first name
+Input last name
+Input postal code
+Click continue button
+URL of the current page is right
+Text main word is right
+Click finish button
+URL of the current page is right
+Text main word is right
